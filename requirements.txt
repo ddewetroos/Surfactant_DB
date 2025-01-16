@@ -1,4 +1,3 @@
 streamlit
-sqlite3
-pandas  # (if used)
-numpy   # (if used)
+pandas 
+numpy
